@@ -208,8 +208,5 @@ class BrailleToEnglish
    end
  end
 
- def print
-   puts capshift_caller
- end
 
 end
